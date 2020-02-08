@@ -1,0 +1,40 @@
+body {
+	margin:0;
+	text-align: center;
+
+}
+.andy{
+	font-family: 'Sriracha', cursive;
+}
+.top-cloud{
+	position:absolute;
+	right: 20%;
+	top:50px;
+}
+.bottom-cloud{
+	position:absolute;
+	left: 20%;
+}
+h1{
+	margin-top: 0;
+}
+
+.top-container{
+	background-color: #ffd082;
+	padding-top: 100px;
+
+}
+
+.middle-container{
+	background-color: #ffd5e5;
+	height: 500px;
+}
+
+.bottom-container{
+	background-color: #fdba9a;
+	height: 500px;
+}
+
+.pro{
+	text-decoration: underline;
+}
